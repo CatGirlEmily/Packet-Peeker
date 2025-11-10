@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "packetpeeker",
+	"version": "${version}",
+	"name": "Packet peeker",
+	"description": "Extremely simple mod allowing you to print c2s packet to chat. Use with /packetpeek",
+	"authors": [
+		"capsoffpls"
+	],
+	"contact": {
+		"sources": "https://github.com/CatGirlEmily/Packet-Peeker"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/packetpeeker/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"catgirlemily.peeker.Packetpeeker"
+		]
+	},
+	"mixins": [
+		"packetpeeker.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
