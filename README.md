@@ -1,3 +1,9 @@
+# EDIT IYOIYOIYOIYO
+I COMPLETELY FORGOT ABOUT OBFUSCATION :sob::sob::sob::sob::sob::sob::sob::sob::sob::sob:
+I WANT TO FIX IT BUT ALSO MOJANG IS SLOWLY DEOBFUSCATING ALL OF THEIR CODE ANYWAY SO SHOULD I????
+
+
+
 # Packer-Peeker (1.21.10)
 much simpler version of packetmanager. Allows you to view c2s packets (client-to-server) on in-game chat.
 FABRIC API OBV REQUIRED (due to custom client-side commands)
